@@ -3,7 +3,7 @@ Para entrar en el Dinosaurio sin cortar el cable del wifi: [chrome://dino/](chro
 Scripts desarrollados por [Edu Olivares](http://www.hipotesi.org)
 --
 ## Como instalar el hack
-_Para "Instalar el hack" simplemente tienes que ir a la consola de desarrolladores (F12 o inspeccionar) y buscar la pestaña "Consola". Donde pegaremos el código que nosotros queramos._
+_Para "Instalar el hack" simplemente tienes que ir a la consola de desarrolladores (F12 o inspeccionar) y buscar la pestaña "Consola". Donde pegaremos el código que nosotros queramos. NECESITAMOS GOOGLE CHROME_
 
 ![Consola de Dessarrolladores](https://github.com/Hipotesi-Dev/Chrome-T-Rex-Hacks/blob/main/Consola.png)
 
