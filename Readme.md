@@ -44,7 +44,7 @@ _Para "Instalar el hack" simplemente tienes que ir a la consola de desarrollador
 # EL BOT
 A ver esto ya es un bot en condiciones, salta corre y hace todo solo, tu simplemente no toques nada. La instalación es la misma que los codigos.
 
-``js
+``
 function keyDown(e) {
   Podium = {};
   var n = document.createEvent("KeyboardEvent");
